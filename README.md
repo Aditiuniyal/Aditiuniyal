@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aditi Uniyal
-
-🎓 Recent B.Tech (CSE) Graduate 
+💻 Currently working as Frontend Developer in Blueberry Group
+🎓 B.Tech (CSE) Graduate 
 💻 Passionate about Java, DSA, and Full Stack Web Development  
 🌱 Currently enhancing my skills in Data Structures, Java, and building real-world web applications  
 🔍 Actively looking for opportunities in software development, internships, or entry-level roles
